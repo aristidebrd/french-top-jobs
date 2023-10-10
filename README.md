@@ -1,7 +1,7 @@
 # french-top-jobs
 
-!!! warning
-    WIP : This project is currently under active development and is not at all finished
+> [!Warning]  
+> This project is currently under active development and is not at all finished.
 
 ## Context
 
