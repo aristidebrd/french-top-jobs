@@ -1,4 +1,3 @@
-crunchbase-api-key.yaml
-websites.csv
-websites-full.csv
+db/.env
+secrets/*
 french-top-jobs
